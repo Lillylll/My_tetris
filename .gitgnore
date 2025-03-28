@@ -1,0 +1,10 @@
+# 编译生成文件
+main
+main.exe
+*.o
+
+# 临时文件
+goutputstream-*
+使用说明.txt
+*.swp
+*.swo

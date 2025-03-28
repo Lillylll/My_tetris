@@ -1,3 +1,9 @@
+/*
+ * Original work Copyright (c) 2015 Stephen Brennan
+ * Modified work Copyright (c) 2023 Lillylll
+ * 根据BSD 3-Clause许可证发布
+ */
+
 #include "tetris.h"
 #include <ncurses.h>
 #include <stdbool.h>
